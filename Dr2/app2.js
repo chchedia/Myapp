@@ -1,0 +1,1 @@
+console.log('Bonjour, application 2');
